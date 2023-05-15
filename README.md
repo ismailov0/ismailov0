@@ -11,6 +11,9 @@
 #### [GPT-3-website-summary](https://github.com/ismailov0/gpt-3-website-summary) - [OpenAI, BS4]
 - This tool allows to get a summary of any website by simply providing its link. / Инструмент для получения краткого содержания любого веб-сайта, просто предоставив его ссылку.
 
+#### [URL Shortener](https://github.com/ismailov0/url-shortener.git) - [Django, DRF]
+- URL Shortener enables users to generate short and unique codes for long URLs, making them more convenient for sharing and accessing. / URL Shortener  - позволяет пользователям генерировать короткие и уникальные коды для длинных URL-адресов, что делает их более удобными для обмена и доступа. 
+
 ### Contacts
 - LinkedIn: [linkedin.com/in/arsen-ismailov](https://www.linkedin.com/in/arsen-ismailov/)
 - Telegram: [@ars_ht](https://t.me/ars_ht)
