@@ -4,6 +4,11 @@ Passionate software engineer with experience in web development and a focus on D
 I enjoy building web applications and creating tools that simplify processes and enhance user experiences.
 
 ### My projects
+#### [My Code Examples: Portfolio of Test Modules with Design Principles](https://github.com/ismailov0/my-code-examples)
+- **Technologies**: Python3
+- **Designs**: SOLID, DRY, KISS, SoC
+- **Description**: The project serves as my portfolio, showcasing my ability to apply design principles in practical situations. It allows other developers, employers, or clients to assess my skills and the quality of my work.. / Проект служит в качестве моего портфолио, демонстрируя умение применять принципы проектирования в практических ситуациях. Это позволяет другим разработчикам, работодателям или заказчикам оценить мои навыки и качество работы.
+
 #### [Basic Django starter kit](https://github.com/ismailov0/base-django-celery-traefik)
 - **Technologies**: Django, DRF, Celery, Redis, PostgreSQL, Docker, Docker-compose, Traefik
 - **Description**: This is a basic set for a Django-based application. / Это базовый набор для приложения на базе Django.
